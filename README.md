@@ -6,7 +6,11 @@ zoomus
 
 Python wrapper around the [Zoom.us](http://zoom.us) REST API.
 
-This work is heavily inspired by the Ruby GEM of the same name, [Zoomus](https://github.com/mllocs/zoomus)
+This work is heavily inspired by the Ruby GEM of the same name, [Zoomus](https://github.com/mllocs/zoomus).
+
+Projecft fork by Appfluence, makers of [Priority Matrix](https://prioritymatrix.com), a leading
+[project management for Office 365](https://appfluence.com/office-365-project-management-integration/)
+including Outlook and Microsoft Teams.
 
 Installation
 ------------
